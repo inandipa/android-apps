@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW03</string>
+    <string name="title"/>
+    <string name="Developer"/>
+    <string name="ReleaseDate"/>
+    <string name="price"/>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fist_name"
+        android:title="fisrt name"
+        app:showAsAction="never"/>
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/last_name"
+        android:title="last name"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/gender"
+        android:title="gender"
+        app:showAsAction="never"/>
+
+
+</menu>

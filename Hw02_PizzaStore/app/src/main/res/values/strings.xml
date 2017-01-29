@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pizza Store</string>
+    <string name="checkout">Checkout</string>
+    <string name="addtoppings">Add Toppings</string>
+    <string name="clearpizza">Clear Pizza</string>
+    <string name="load_previous_order">Load Previous Order</string>
+    <string name="pizza">Pizza</string>
+    <string name="delivery">Delivery:</string>
+    <string name="your_order">Your Order</string>
+    <string name="base_price">Base Price:</string>
+    <string name="toppings">Toppings:</string>
+    <string name="toppings_list"/>
+    <string name="base_price_cost">6.5$</string>
+    <string name="toppings_cost"/>
+    <string name="Total"><b><u>Total:</u></b></string>
+    <string name="Total_cost"/>
+    <string name="delivery_cost"/>
+    <string name="preference_file_key">Indra</string>
+    <string name="saved_items">saved_items</string>
+    <string name="is_saved">is_saved</string>
+    <string name="isDelivery">is_delivery</string>
+    <string name="finish">Finish</string>
+
+
+</resources>

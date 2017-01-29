@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+       >
+    <item
+        android:id="@+id/Delete"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Delete"
+        />
+            <item
+                android:id="@+id/Reply"
+                app:showAsAction="ifRoom"
+                android:icon="@android:drawable/stat_sys_upload_done"
+                android:title="Reply"
+                />
+
+
+
+</menu>

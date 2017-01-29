@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">In Class 4</string>
+    <string name="select_length">Select Password Length</string>
+    <string name="Result"/>
+    <string name="Numbers">Numbers</string>
+    <string name="upper">Uppercase Letters</string>
+    <string name="lower">Lowercase Letters</string>
+    <string name="special">Special Characters</string>
+    <string name="dialog">Generating Passwords ....</string>
+    <string name="gen_pass_thread">Generate Password (Thread)</string>
+    <string name="gen_pass_Asy">Generate Password (Async Task)</string>
+    <string name="dropdown_name">Select Password Length</string>
+    <string-array name="select_list">
+        <item>Select password Length</item>
+        <item>8-12</item>
+        <item>13-17</item>
+        <item>18-22</item>
+
+    </string-array>
+
+</resources>

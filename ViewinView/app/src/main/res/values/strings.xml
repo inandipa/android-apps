@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">View in View</string>
+    <string name="Student_info">Student Information</string>
+    <string name="Student_name">Name: </string>
+    <string name="Student_email">Email: </string>
+    <string name="Student_subject">Prog. Language: </string>
+    <string name="Student_name_value" />
+    <string name="Student_email_value" />
+    <string name="Student_subject_value" />
+
+</resources>

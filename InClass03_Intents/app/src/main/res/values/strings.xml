@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StudentRegistrationForm</string>
+    <string name="txt_prog">Favourite Programming Language</string>
+    <string name="rd_java">JAVA</string>
+    <string name="rd_c">C</string>
+    <string name="rd_Chash">C#</string>
+    <string name="btn_sbmt">SUBMIT</string>
+    <string name="Student_info">Student Information</string>
+    <string name="Student_name">Name: </string>
+    <string name="Student_email">Email: </string>
+    <string name="Student_subject">Prog. Language: </string>
+    <string name="Student_name_value" />
+    <string name="Student_email_value" />
+    <string name="Student_subject_value" />
+    <string name="btn_save">SAVE</string>
+</resources>

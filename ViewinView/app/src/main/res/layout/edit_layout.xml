@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="25dp"
+    android:layout_marginRight="25dp"
+    android:layout_marginTop="25dp">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Student_info"
+        android:id="@+id/textViewinfo"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Student_name"
+        android:id="@+id/textViewName"
+        android:layout_below="@+id/textViewinfo"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Student_name_value"
+        android:id="@+id/textViewNameValue"
+        android:layout_alignTop="@+id/textViewName"
+        android:layout_toRightOf="@+id/textViewName"
+        android:layout_toEndOf="@+id/textViewName" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Student_email"
+        android:id="@+id/textViewEmail"
+        android:layout_below="@+id/textViewName"
+        android:layout_marginTop="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Student_email_value"
+        android:id="@+id/textViewEmailValue"
+        android:layout_alignTop="@+id/textViewEmail"
+        android:layout_toRightOf="@+id/textViewEmail"
+        android:layout_toEndOf="@+id/textViewEmail" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Student_subject"
+        android:id="@+id/textViewSubject"
+        android:layout_below="@+id/textViewEmail"
+        android:layout_marginTop="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Student_subject_value"
+        android:id="@+id/textViewSubjectValue"
+        android:layout_alignTop="@+id/textViewSubject"
+        android:layout_toRightOf="@+id/textViewSubject"
+        android:layout_toEndOf="@+id/textViewSubject" />
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewName"
+        android:src="@drawable/ic_action_edit"
+        android:layout_alignTop="@+id/textViewName"
+        android:layout_above="@+id/textViewEmail"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewEmail"
+        android:src="@drawable/ic_action_edit"
+        android:layout_alignTop="@+id/textViewEmail"
+        android:layout_above="@+id/textViewSubject"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/ic_action_edit"
+        android:layout_alignTop="@+id/textViewSubjectValue"
+        android:layout_alignBottom="@+id/textViewSubjectValue"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

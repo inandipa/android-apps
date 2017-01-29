@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apps Activity</string>
+    <string name="showall">Show All</string>
+    <string name="showFav">Show Favorites</string>
+</resources>

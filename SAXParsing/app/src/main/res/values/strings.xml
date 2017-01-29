@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SAXParsing</string>
+    <string name="Use_metric_system">Use metric system</string>
+    <string name="Search_hint">Enter City,State,Country</string>
+    <string name="Search_query" />
+    <string name="Check_Weather">Check Weather!</string>
+    <string name="temp">Temprature:</string>
+    <string name="hum">Humidity:</string>
+    <string name="pre">Pressure:</string>
+    <string name="weather">Weather:</string>
+    <string name="temp_value"/>
+    <string name="hum_value"/>
+    <string name="pre_value"/>
+    <string name="weater_value"/>
+
+</resources>

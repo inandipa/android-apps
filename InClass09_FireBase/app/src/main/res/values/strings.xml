@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="user">User Email-id:</string>
+    <string name="pass">Password:</string>
+    <string name="login">Login</string>
+    <string name="signup">Create New Account</string>
+    <string name="name_signup">Full Name</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="email_signup">Email</string>
+    <string name="showall">Show All</string>
+    <string name="showFav">Show Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

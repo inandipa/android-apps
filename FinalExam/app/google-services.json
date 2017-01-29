@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "941571878517",
+    "firebase_url": "https://finalexam-4ba60.firebaseio.com",
+    "project_id": "finalexam-4ba60",
+    "storage_bucket": "finalexam-4ba60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941571878517:android:55e6af850388453a",
+        "android_client_info": {
+          "package_name": "com.example.indra.finalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941571878517-ud9ucdu645dbd0ub81t71nol4dvat087.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3dph4Y2fbPtdeCEgcZnH0C2cUjzl9Io"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
